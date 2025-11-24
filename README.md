@@ -1,2 +1,4 @@
 # Philip Russell
-I started programming in scratch. I might go back.
+## About Me
+Professional scratch programmer
+Favorite data structure: binary search tree
