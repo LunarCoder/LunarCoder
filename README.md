@@ -1,2 +1,1 @@
-# PhilipRussell
-GitHub profile
+# Philip Russell
